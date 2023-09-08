@@ -1,18 +1,16 @@
 ---
 weight: 2
-title: "Picaroons (Single Page)"
+title: "Treasure Trackers (Single Page)"
 platen:
   title_as_heading: true
   menu:
     flatten_section: true
 ---
 
-> A Narrative Game of Adventure for Scoundrels
+> A game of "It's Binding of Isaac for TTRPGs"
 
 ## About
-
-Use this game text however you please, so long as you're not a bigot, fascist, or other piece of
-dogshit. If you use it for your own work, attribution is appreciated but not required.
+It's Binding of Isaac kinda, but using a bunch of shit I stole from other games (as you do)
 
 ## Special Thanks
 
