@@ -1,14 +1,14 @@
 ---
 weight: 1
-title: Picaroons
+title: Treasure Trackers
 platen:
   menu:
     flatten_section: true
 ---
 
-> A Narrative Game of Adventure for Scoundrels
+> A game of delving and auctioning treasure
 
-Take on the role of a picaroon, and rely on your wits to make your way in an uncaring world.
+Delve into a dungeon, find equipment with radical abilities, and fight your way out carrying as much treasure as possible!
 
 Use this text however you please, so long as you're not a bigot, fascist, or other piece of dogshit.
 
